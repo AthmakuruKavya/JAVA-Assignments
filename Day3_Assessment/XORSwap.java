@@ -1,4 +1,4 @@
-package Assessment2;
+package Day3_Assessment;
 import java.util.Scanner;
 
 public class XORSwap {

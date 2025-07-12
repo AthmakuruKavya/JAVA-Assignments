@@ -1,4 +1,4 @@
-package Assessment4;
+package Day4_Assessment;
 
 public class Loop {
     public static void main(String[] args) {

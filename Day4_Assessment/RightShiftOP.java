@@ -1,4 +1,4 @@
-package Assessment4;
+package Day4_Assessment;
 
 //Signed vs Unsigned Right Shift
 

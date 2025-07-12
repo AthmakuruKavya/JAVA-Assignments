@@ -1,4 +1,4 @@
-package Assessment4;
+package Day4_Assessment;
 
 //Function without Parameters and Return Type
 
