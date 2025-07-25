@@ -2,7 +2,7 @@ package Math;
 
 public class Prime {
     public static void main(String[] args) {
-        int n =10;
+        int n =2;
         boolean ans = false;
         if(n<=1){
             System.out.println(n+" Is not prime");
