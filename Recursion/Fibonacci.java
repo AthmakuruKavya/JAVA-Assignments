@@ -15,5 +15,6 @@ public class Fibonacci {
         int n = sc.nextInt();
         int val = fib(n);
         System.out.println(val);
+        sc.close();
     }
 }
