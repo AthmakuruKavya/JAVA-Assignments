@@ -15,5 +15,6 @@ public class SumOfN {
         int n = sc.nextInt();
         int val = sum(n);
         System.out.println(val);
+        sc.close();
     }
 }
